@@ -8,5 +8,7 @@ After installing pygame, run the following command:<br>
 ```python3 main.py``` if you are on Linux, or<br>
 ```python main.py``` if you are on Windows
 
+P.S.: **DO NOT TAMPER WITH config.txt FILE UNLESS YOU KNOW YOUR STUFF ELSE YOU MIGHT RUN INTO ISSUES**
+
 # Contribution
 This is an open source project and anyone can contribute.
