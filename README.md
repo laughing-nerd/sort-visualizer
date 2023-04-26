@@ -12,3 +12,6 @@ P.S.: **DO NOT TAMPER WITH config.txt FILE UNLESS YOU KNOW YOUR STUFF ELSE YOU M
 
 # Contribution
 This is an open source project and anyone can contribute.
+
+# Extras
+I am not a hardcore Python dev, so please don't hate me if my code looks stupid :| This program might have some bugs.
